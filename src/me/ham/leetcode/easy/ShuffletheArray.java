@@ -1,4 +1,4 @@
-package me.ham.easy;
+package me.ham.leetcode.easy;
 
 import org.junit.Test;
 

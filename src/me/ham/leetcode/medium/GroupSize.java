@@ -1,4 +1,4 @@
-package me.ham.medium;
+package me.ham.leetcode.medium;
 
 import org.junit.Assert;
 import org.junit.Test;
